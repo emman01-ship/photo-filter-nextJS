@@ -5,7 +5,7 @@ Title: Photo filter
 Project Description:
 
 A NextJS project using Tailwind CSS for styling. Application is a single webpage that allows the user to upload a single image and given the options
-of 4 filters to apply to it. 
+of 4 filters (blur, brightness, contrast, and grayscale) to apply to it. 
 
 ## Getting Started
 
